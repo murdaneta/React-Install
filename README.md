@@ -2,7 +2,9 @@
 
 Comandos para intalar react
 
-```mkdir moiworking && cd moiworking```
+```
+mkdir moiworking && cd moiworking
+```
 
 ```
 npm init --y
